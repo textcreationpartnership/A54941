@@ -1,0 +1,525 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for printing a third edition of a book intituled Ludovici Le Blanc Theses theologicae with considerable additions</title>
+            <author>Pitt, Moses, fl. 1654-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54941</idno>
+            <idno type="STC">Wing P2308A</idno>
+            <idno type="STC">ESTC R12909</idno>
+            <idno type="EEBO-CITATION">13583501</idno>
+            <idno type="OCLC">ocm 13583501</idno>
+            <idno type="VID">100504</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54941)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100504)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 798:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for printing a third edition of a book intituled Ludovici Le Blanc Theses theologicae with considerable additions</title>
+                  <author>Pitt, Moses, fl. 1654-1696.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Moses Pitt,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Le Blanc de Beaulieu, Louis, 1604-1675. --  Theses theologicae.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:100504:1" rendition="simple:additions"/>
+            <head>PROPOSALS For Printing a Third Edition of a Book Intituled
+<hi>Ludovici Le Blanc Theſes Theologicae.</hi> With conſiderable Additions.</head>
+            <p>WHereas <hi>Moſes Pitt,</hi> Bookſeller, did in the year 1675. Print at <hi>London</hi> the <hi>Theſes Theologicae</hi> of
+<hi>Ludovicus Le Blanc,</hi> Profeſſor of Divinity in the Univerſity of
+<hi>Sedan;</hi> not only Re<g ref="char:EOLhyphen"/>printing thoſe formerly Printed at <hi>Sedan</hi> in <hi>Quarte,</hi> and ſold at extravagant Rates; but alſo a far greater number of New ones, which by the help of certain Eminent Divines he obtained from the Author in his own hand-writing, which Impreſſion is now intirely ſold off; and whereas ſince the Author's death the ſaid <hi>Moſes Pitt,</hi> by the Aſſiſtance of the ſame Worthy Perſons hath obtained a conſiderable number of other Theſes of the ſame Author, fitted by himſelf for the Preſs before his death, which he concludes will be very acceptable to the Learned World, as well from the favourable Reception of the former Editions, as from the Approbation of ſeveral Judicious and Learned Perſons, who have ſeen the remaining <hi>Theſes</hi> in the Authors
+<hi>M. S. S.</hi> He the ſaid <hi>Moſes Pitt,</hi> intending a New Edition of all the <hi>Theſes</hi> of <hi>Ludovicus Le Blanc,</hi> of which thoſe already Printed contain 177 Sheets, and thoſe in <hi>M. S. S.</hi> as near as he can gueſs, will make 33 Sheets more, and the whole 210 Sheets. In order hereunto offers theſe following Propoſals to all ſuch Perſons as ſhall be willing to Promote ſo Uſeful a Deſign.</p>
+            <p n="1">I. That he the ſaid <hi>M. Pitt</hi> undertakes that all Gentlemen who ſhall pleaſe to Subſcribe, ſhall re<g ref="char:EOLhyphen"/>ceive the ſaid Book before <hi>Lady-Day</hi> next, Printed on as good Paper, and of the ſame Character with the Edition 1675, at the Rate of One Penny <hi>per</hi> Sheet, paying Five Shillings in hand at the time of their Subſcription, for which the ſaid <hi>M. Pitt</hi> will give his Receipt under his Hand and Seal, together with a Promiſe to perfect and deliver the ſaid Book to each Subſcriber according to theſe Propoſals, they Paying the Remainder of the Money at the Delivery of the ſaid Book.</p>
+            <p n="2">II. He the ſaid <hi>M. Pitt</hi> promiſeth, That if any perſon ſhall procure Six Subſcriptions, and Pay him Thirty Shillings; and as ſoon as the Work is perfected, ſhall pay the Remainder of the Money, he ſhall have the Seventh Book <hi>Gratis.</hi>
+            </p>
+            <p n="3">III. Whereas ſeveral perſons have already the
+<hi>Theſes</hi> of <hi>Lud. Le Blanc</hi> Printed 1675. and 'tis the great grievance of New Editions with Inlargements, that they render former Editions invaluable, and utterly loſt to ſuch as have bought; for the Remedy hereof in this caſe, he the ſaid <hi>Moſes Pitt</hi> further propoſeth to thoſe that have the ſaid Edition, that if they pleaſe to Subſcribe for the Addi<g ref="char:EOLhyphen"/>tions only, and Pay Two Shillings and Six Pence before
+<hi>Michaelmas</hi> Day next after the Date hereof, and the Remainder on Delivery, at the Rate of One Penny a Sheet, ſhall receive the ſaid Additions at the time prefixed. <hi>Given under my hand this</hi> 12 <hi>day of</hi> June, 1682.</p>
+            <div type="part">
+               <head>An Index of the <hi>Theſes.</hi>
+               </head>
+               <head type="sub">Thoſe with a Star never yet Printed.</head>
+               <list>
+                  <item>DE Fide. De Theologia. De Authoritate Scrip<g ref="char:EOLhyphen"/>turae. De Scripturae plenitudine &amp; ſufficientia.</item>
+                  <item>Theſes Theologicae quibus. Deum eſſe demonſtratur.</item>
+                  <item>De Cauſa Praedeſtinationis. De aeterna hominum Electione, &amp; Praedeſtinatione. De certitudine quae Fidei competit. De Sacrae Scripturae perſpi<g ref="char:EOLhyphen"/>cuitate. De verſionibus Scripturae Vulgaribus &amp; Vernaculis. De Authoritate Vulgatae verſionis Latinae. De reprobationis natura, objecto, cauſa, &amp; effectibus.</item>
+                  <item>Theſes Theologicae, in quibus exponitur ſententia eo<g ref="char:EOLhyphen"/>rum qui Remonſtrantes dicuntur, ſive Arminiani; &amp; etiam Doctorum Confeſſionis Auguſtanae, circa hominum Praedeſtinationem &amp; Electionem.</item>
+                  <item>Theſes Theologicae, in quibus inquiritur, An omni<g ref="char:EOLhyphen"/>bus hominibus detur Gratia ſufficiens ad Conver<g ref="char:EOLhyphen"/>ſionem, &amp; Peccata vitanda? De Fidei juſtifi<g ref="char:EOLhyphen"/>cantis natura &amp; eſſentia. De diſtinctione Peccati in Mortale &amp; Veniale. De Remiſſione Pecca<g ref="char:EOLhyphen"/>torum. De Imaginum Cultu. De Angelorum &amp; Hominum Sanctorum Cultu &amp; Veneratione. De primi Hominis immortalitate. De Juſtitia primi Hominis, an Naturalis fuerit vel Super<g ref="char:EOLhyphen"/>naturalis. De Libero Hominis Arbitrio.</item>
+                  <item>Quomodo Divinus concurſus &amp; cooperatio cum Ar<g ref="char:EOLhyphen"/>bitrii humani libertate conciliari poſſit.</item>
+                  <item>Concordia Libertatis Humanae cum Praeſcientia Di<g ref="char:EOLhyphen"/>vina.</item>
+                  <item>Concordia Libertatis Humanae cum Decretis Di<g ref="char:EOLhyphen"/>vinis.</item>
+                  <item>Quomodo ſe habet Liberum Hominis Arbitrium in ſtatu Naturae lapſae, reſpectu Boni Salutaris at<g ref="char:EOLhyphen"/>que Spiritualis. De Gratiae neceſſitate, &amp; Li<g ref="char:EOLhyphen"/>beri Hominum Arbitrii viribus circa Bonum Morale in ſtatu Naturae Lapſae.</item>
+                  <item>Theſes Theologicae, in quibus exponuntur variae di<g ref="char:EOLhyphen"/>ſtinctiones &amp; acceptiones Gratiae.</item>
+                  <item>Theſes Theologicae, in quibus exponitur an &amp; qua<g ref="char:EOLhyphen"/>tenus homo per Chriſti gratiam Legem implere poſſit, &amp; Dei mandata ſervare.</item>
+                  <item>De veritate Bonorum operu quae per Chriſti Gra<g ref="char:EOLhyphen"/>tiam fiunt à Regenitis.</item>
+                  <item>Theſ. Theol. in quibus exponitur an &amp; quatenus te<g ref="char:EOLhyphen"/>neantur fideles ſervare Dei Legem &amp; Bona opera facere.</item>
+                  <item>Theſ. Theol. De Relatione Bonorum operum ad vi<g ref="char:EOLhyphen"/>tam Eternam.</item>
+                  <item>De <g ref="char:V">Ʋ</g>ſu &amp; Efficacia Sacramentorum Novi Teſt.</item>
+                  <pb facs="tcp:100504:1"/>
+                  <item>
+                     <hi>Theſes Theologicae, in quibus exponitur, An Chriſtus ſit Mediator ſecundum utramque Naturam, Hu<g ref="char:EOLhyphen"/>manam &amp; Divinam? eaque de re ſententia Ec<g ref="char:EOLhyphen"/>cleſiae Romanae cum Proteſtantium doctrina con<g ref="char:EOLhyphen"/>fertur.</hi>
+                  </item>
+                  <item>
+                     <hi>Theſes Theologicae, in quibus inquiritur, An ex ob<g ref="char:EOLhyphen"/>lata atque exoptata <g ref="char:V">Ʋ</g>nione eorum qui inter Pro<g ref="char:EOLhyphen"/>teſtantes ſingulari, nomine Reformati dicuntur, cum iis qui vocantur Confeſſionis Auguſtanae, ſe<g ref="char:EOLhyphen"/>quatur Proteſtantes cum Eccleſia Romana uniri poſſe &amp; debere.</hi>
+                  </item>
+                  <item>* <hi>Elucidatio ſtatus aliquot Controver ſiarum circa Dei Verbum &amp; Scripturam Sacram.</hi>
+                  </item>
+                  <item>* <hi>Elucidatio ſtatus cont, circa Chriſti Perſonam &amp; Officium.</hi>
+                  </item>
+                  <item>* <hi>Theſ. Theol. in quibus inquiritur, An Cultus Di<g ref="char:EOLhyphen"/>vinus publicè &amp; privatim celebrari debeat lin<g ref="char:EOLhyphen"/>gua vulgari &amp; plebi intellecta.</hi>
+                  </item>
+                  <item>* <hi>De Eccleſiae Regimine &amp; de Romano Pontifice.</hi>
+                  </item>
+                  <item>* <hi>De Conciliis.</hi>
+                  </item>
+                  <item>* <hi>De Eccleſia militante.</hi>
+                  </item>
+                  <item>* <hi>De Membris Eccleſiae militantis.</hi>
+                  </item>
+               </list>
+               <p>We whoſe Names are under-written do Approve theſe Propoſals of <hi>Moſes Pitt</hi> Bookſeller, as Juſt and Honeſt, and recommend them as in ſome reſpects more than ordinary, fair, and worthy all En<g ref="char:EOLhyphen"/>couragement; and we do our ſelves ſubſcribe for the <hi>Theſes Theologicae</hi> of <hi>Ludovicus Le Blanc,</hi> accord<g ref="char:EOLhyphen"/>ing to the Tenour of the ſaid <hi>Propoſals.</hi>
+               </p>
+               <list>
+                  <item>
+                     <hi>H.</hi> L. B. of <hi>London.</hi>
+                  </item>
+                  <item>
+                     <hi>G.</hi> L. B. of <hi>Wincheſter.</hi>
+                  </item>
+                  <item>
+                     <hi>W.</hi> L.B. of <hi>Peterborough.</hi>
+                  </item>
+                  <item>
+                     <hi>W.</hi> L. B. of St. <hi>Aſaph.</hi>
+                  </item>
+                  <item>
+                     <hi>Benj. Witchcot</hi> D. D.</item>
+                  <item>
+                     <hi>Tho. Gale</hi> D. D.</item>
+                  <item>
+                     <hi>Anth. Horneck</hi> D. D.</item>
+                  <item>
+                     <hi>Will. Cave</hi> D. D.</item>
+                  <item>
+                     <hi>Jo. Younger</hi> D. D.</item>
+                  <item>
+                     <hi>Will. Sherlock</hi> D. D.</item>
+                  <item>
+                     <hi>Tho. Plume</hi> D. D.</item>
+                  <item>
+                     <hi>Tho. Clutterbuck</hi> D. D.</item>
+                  <item>
+                     <hi>Tho. Pagitt</hi> D. D.</item>
+                  <item>
+                     <hi>Robert Grove</hi> D. D.</item>
+                  <item>
+                     <hi>Edward Lake</hi> D. D.</item>
+                  <item>
+                     <hi>Clement Sankey</hi> D. D.</item>
+                  <item>
+                     <hi>William Turner</hi> D. D.</item>
+                  <item>
+                     <hi>William Bates</hi> D. D.</item>
+                  <item>
+                     <hi>Henry Dove</hi> D. D.</item>
+                  <item>
+                     <hi>Gilb. Burnet</hi> D. D.</item>
+                  <item>
+                     <hi>John Tillotſon</hi> D. D.</item>
+                  <item>
+                     <hi>John Hall</hi> D. D.</item>
+                  <item>
+                     <hi>John Cawley</hi> D. D.</item>
+                  <item>
+                     <hi>Tho. Jacomb</hi> D. D.</item>
+                  <item>
+                     <hi>Jam. Gardiner</hi> D. D.</item>
+                  <item>
+                     <hi>Edw. Stilling fleet</hi> D.D.</item>
+                  <item>
+                     <hi>George Hickes</hi> D. D.</item>
+                  <item>
+                     <hi>George Reynell</hi> D. D.</item>
+                  <item>
+                     <hi>Francis Turner</hi> D. D.</item>
+                  <item>
+                     <hi>Tho. Teniſon</hi> D. D.</item>
+                  <item>
+                     <hi>John Sharpe</hi> D. D.</item>
+                  <item>
+                     <hi>Tho. Cartwright</hi> D. D.</item>
+                  <item>
+                     <hi>Tho. Short</hi> M. D.</item>
+                  <item>
+                     <hi>Will. Levenz</hi> M. D.</item>
+                  <item>
+                     <hi>Henry Sampſon</hi> M. D.</item>
+                  <item>
+                     <hi>Walter Needam</hi> M. D.</item>
+                  <item>
+                     <hi>John Patrick.</hi>
+                  </item>
+                  <item>
+                     <hi>John Scott.</hi>
+                  </item>
+                  <item>
+                     <hi>Tim. Borage.</hi>
+                  </item>
+                  <item>Mr. <hi>Evans.</hi>
+                  </item>
+                  <item>
+                     <hi>John Wickes.</hi>
+                  </item>
+                  <item>
+                     <hi>Lewis Deſecotais.</hi>
+                  </item>
+                  <item>
+                     <hi>Stephen <g ref="char:V">Ʋ</g>pman.</hi>
+                  </item>
+                  <item>
+                     <hi>Obad. Hughes.</hi>
+                  </item>
+                  <item>
+                     <hi>Will. Hopkins.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Newcome.</hi>
+                  </item>
+                  <item>
+                     <hi>Sam. Freeman.</hi>
+                  </item>
+                  <item>
+                     <hi>Rich. Kidder.</hi>
+                  </item>
+                  <item>
+                     <hi>Jo. Jones.</hi>
+                  </item>
+                  <item>
+                     <hi>Will. Sill.</hi>
+                  </item>
+                  <item>
+                     <hi>Rich. Baxter.</hi>
+                  </item>
+                  <item>
+                     <hi>John Palmer.</hi>
+                  </item>
+                  <item>
+                     <hi>Benj. Pulleyn.</hi>
+                  </item>
+                  <item>
+                     <hi>John Pullen.</hi>
+                  </item>
+                  <item>
+                     <hi>Will. Shortgrave.</hi>
+                  </item>
+                  <item>
+                     <hi>James Chetwood.</hi>
+                  </item>
+                  <item>
+                     <hi>G. Goodall.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Cooper.</hi>
+                  </item>
+                  <item>
+                     <hi>Rich. Adams.</hi>
+                  </item>
+                  <item>
+                     <hi>John Skelton.</hi>
+                  </item>
+                  <item>
+                     <hi>Rich. Dunmareiq.</hi>
+                  </item>
+                  <item>
+                     <hi>Edw. Roberts.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Huxly.</hi>
+                  </item>
+                  <item>
+                     <hi>Rich. Pearſon.</hi>
+                  </item>
+                  <item>
+                     <hi>Rieh. Hooke.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Hurſt.</hi>
+                  </item>
+                  <item>
+                     <hi>Arthur Harris.</hi>
+                  </item>
+                  <item>
+                     <hi>John Hartclife.</hi>
+                  </item>
+                  <item>
+                     <hi>Jo. Flamſted.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Nixon.</hi>
+                  </item>
+                  <item>
+                     <hi>Will. Crowther.</hi>
+                  </item>
+                  <item>
+                     <hi>James Robertſon.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Heyrick.</hi>
+                  </item>
+                  <item>
+                     <hi>Hugh Mapletoft.</hi>
+                  </item>
+                  <item>
+                     <hi>Caleb Avenant.</hi>
+                  </item>
+                  <item>
+                     <hi>Joſeph Aroſmith.</hi>
+                  </item>
+                  <item>
+                     <hi>Will. Richardſon.</hi>
+                  </item>
+                  <item>
+                     <hi>Benj. Barnett.</hi>
+                  </item>
+                  <item>
+                     <hi>Lionel Gatford.</hi>
+                  </item>
+                  <item>
+                     <hi>Will. Orme.</hi>
+                  </item>
+                  <item>
+                     <hi>Charles Roderick.</hi>
+                  </item>
+                  <item>
+                     <hi>Rich. Blechynden.</hi>
+                  </item>
+                  <item>
+                     <hi>Charles Seward.</hi>
+                  </item>
+                  <item>
+                     <hi>Nath. Spincks.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Turner.</hi>
+                  </item>
+                  <item>
+                     <hi>Charles Alſtone.</hi>
+                  </item>
+                  <item>
+                     <hi>Anth. Wither.</hi>
+                  </item>
+                  <item>
+                     <hi>Dan. Griffith.</hi>
+                  </item>
+                  <item>
+                     <hi>John Battely.</hi>
+                  </item>
+                  <item>
+                     <hi>Will. Nicolſon.</hi>
+                  </item>
+                  <item>
+                     <hi>Charles Alleſtree.</hi>
+                  </item>
+                  <item>
+                     <hi>John Porter.</hi>
+                  </item>
+                  <item>
+                     <hi>Rich. Lucas.</hi>
+                  </item>
+                  <item>
+                     <hi>John Horn.</hi>
+                  </item>
+                  <item>
+                     <hi>Matt. Powel.</hi>
+                  </item>
+                  <item>
+                     <hi>Edw. Bernard.</hi>
+                  </item>
+                  <item>
+                     <hi>Hum. Prideaux.</hi>
+                  </item>
+                  <item>
+                     <hi>Anth. Wolrich.</hi>
+                  </item>
+                  <item>
+                     <hi>Sam. Hieron.</hi>
+                  </item>
+               </list>
+               <p>For the Eaſe of Subſcribers that live in the Country,
+<hi>Moſes Pitt</hi> hath left Receipts with the Book<g ref="char:EOLhyphen"/>ſellers here mentioned, To whom Money may be paid; who alſo give theſe Propoſals
+<hi>Gratis.</hi>
+               </p>
+               <list>
+                  <item>
+                     <hi>Richard Davis</hi> in <hi>Oxford.</hi>
+                  </item>
+                  <item>
+                     <hi>Sam. Simpſon</hi> in <hi>Cambridge.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Lambert</hi> in <hi>York.</hi>
+                  </item>
+                  <item>
+                     <hi>Rob. Eveleigh</hi> in <hi>Exeter.</hi>
+                  </item>
+                  <item>
+                     <hi>Mich. Hide.</hi> in <hi>Exeter.</hi>
+                  </item>
+                  <item>
+                     <hi>Godfrey Boucher</hi> in <hi>Peterborough.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Ratten</hi> in <hi>Harborough.</hi>
+                  </item>
+                  <item>
+                     <hi>Sam. Evans</hi> in <hi>Worceſter.</hi>
+                  </item>
+                  <item>
+                     <hi>John Jones</hi> in <hi>Worceſter.</hi>
+                  </item>
+                  <item>
+                     <hi>Samuel Richards</hi> in <hi>Nottingham.</hi>
+                  </item>
+                  <item>
+                     <hi>Edw. Paulet</hi> in <hi>Grantham.</hi>
+                  </item>
+                  <item>
+                     <hi>Obed. Smith</hi> in <hi>Davintry.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Hall</hi> of <hi>Colcheſter.</hi>
+                  </item>
+                  <item>
+                     <hi>George Roſe</hi> in <hi>Norwich.</hi>
+                  </item>
+                  <item>
+                     <hi>Edw. Giles</hi> in <hi>Norwich.</hi>
+                  </item>
+                  <item>
+                     <hi>Will. Churchill</hi> in <hi>Dorcheſter.</hi>
+                  </item>
+                  <item>
+                     <hi>Will. Nott</hi> in the <hi>Pall Mall.</hi>
+                  </item>
+                  <item>
+                     <hi>Gabriel Kunholt</hi> againſt the
+<hi>Mewſe.</hi>
+                  </item>
+                  <item>
+                     <hi>Dudly Davis</hi> in <hi>Dublin.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Mein</hi> Poſtmaſter of
+<hi>Edinburg.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Randal</hi> of <hi>Newcaſtle.</hi>
+                  </item>
+                  <item>
+                     <hi>John Fowler</hi> of <hi>Northampton</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Wall</hi> of <hi>Briſtol.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Candell</hi> in <hi>Bath.</hi>
+                  </item>
+               </list>
+               <pb facs="tcp:100504:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:100504:2"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
